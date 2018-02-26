@@ -1,0 +1,5 @@
+theme: jekyll-theme-merlot
+url: https://grahamwhaley.github.io/52pencils
+baseurl: /52pencils
+future: true
+paginate: 5
