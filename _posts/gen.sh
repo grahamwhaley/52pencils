@@ -18,5 +18,14 @@ categories: magic keywords
 
 # title here
 
-text here
+## The company
+
+## The pencil itself
+
+![Mitsubishi 9800]({{site.url}}/images/mitsubishi_9800_small.JPG)
+
+## How does it write
+
+## Sourcing
+
 EOF
