@@ -20,3 +20,4 @@ convert ${FILENAME}  -font Arial -pointsize 10 \
                  fill black  text 0,12 'Copyright Graham Whaley' \
                  fill white  text 1,11 'Copyright Graham Whaley' " \
           cp_${FILENAME}
+echo "New image is in cp_${FILENAME}"
