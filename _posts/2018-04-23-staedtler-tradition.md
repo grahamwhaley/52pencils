@@ -26,7 +26,7 @@ the pencils I have (and note, two of them are 2H, something I'd not normally pur
 don't recall how old these might be. It would not surprise me if the pencils used to be made solely in Germany and now have diversified,
 or the other way around.
 
-![Tradition 110]({{site.url}}/images/norris.jpg)
+![Tradition 110]({{site.url}}/images/tradition.jpg)
 
 An interesting thing that I notice when using one of these is ... that the dipped tip has little 'waves' around it - that is, the
 black coating over the underlying white does not just go uniformly around the tip - but it is in little 'scallops'. I wonder if this is
@@ -43,4 +43,8 @@ basis I would be pretty happy using this - nothing about it particularly rattled
 
 In the U.K., pretty easy. You might not quite find them in every shop and supermarket, but you will find them probably anywhere
 that does more than one type of pencil (and the other type would very likely be the cousin Staedtler Norris).
+
+## Reviews
+
+- [stationerytraffic](http://stationerytraffic.blogspot.co.uk/2010/12/staedtler-noris-hb.html)
 
