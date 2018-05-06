@@ -1,5 +1,5 @@
 ---
-title:  "Staedtler mars lumograph@
+title:  "Staedtler mars lumograph"
 description: Staedtlers top of the range
 date:   2018-05-06 13:47:43 +0100
 categories: staedtler germany
