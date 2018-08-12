@@ -29,7 +29,7 @@ a boy.
 The pencil is fairly plain - the pain job looks a bit thin and knocked about (the knocked about is most
 likely that this pencil has been in my collection for some time).
 
-![Cumberland Grahite]({{site.url}}/images/cumb_graph.JPG)
+![Cumberland Grahite]({{site.url}}/images/cumb_graph.jpg)
 
 ## How does it write
 
