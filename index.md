@@ -1,6 +1,6 @@
 ## 52pencils - a pencil blog
 
-52 pencils - thta will be a pencil a week for a year then...
+52 pencils - that will be a pencil a week for a year then...
 
 # Blog entries
 
