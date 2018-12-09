@@ -26,24 +26,24 @@ you can find some of their pencils, including this ruler pencil, on
 ## The pencil itself
 
 As the title suggests, this is a pencil that is marked up as a ruler.
-![kirin ruler cm]({{site.url}}/images/kirin_ruler_cm.jpg
+![kirin ruler cm]({{site.url}}/images/kirin_ruler_cm.jpg)
 
 As you can see, the pencil is also not hexagonal or round, but is
 of rectangular cross section. The pencil also has an inches scale on
 one side, and a centimeter scale on the other.
 
-![kirin ruler inches]({{site.url}}/images/kirin_ruler_inches.jpg
+![kirin ruler inches]({{site.url}}/images/kirin_ruler_inches.jpg)
 
 The finish on the pencil is pretty good - I actually quite like the
 high gloss varnish finish, and the end cap is nicely rounded and painted.
-![kirin ruler end]({{site.url}}/images/kirin_ruler_end.jpg
+![kirin ruler end]({{site.url}}/images/kirin_ruler_end.jpg)
 
 One peculiarity about the shape of the pencil is that it does not
 fit in my everyday pencil sharperner - it is just a tiny bit too
 wide. Thus, once I'd worn it down a little, to resharpen it I had to
 resort to some other manual single blade based sharperners - the result
 was a somewhat blunt tip.
-![kirin ruler tip]({{site.url}}/images/kirin_ruler_tip.jpg
+![kirin ruler tip]({{site.url}}/images/kirin_ruler_tip.jpg)
 
 Sure, I think I could have dug out a long point sharpener that maybe
 the pencil would have fitted in, but I didn't - and the stubby point
@@ -54,7 +54,7 @@ And finally, how do I know this is a Kirin brand pencil - well, there is
 some very finely printed text on one of the narrow sides of the pencil
 (that I did not spot immediately).
 
-![kirin ruler text]({{site.url}}/images/kirin_ruler_text.jpg
+![kirin ruler text]({{site.url}}/images/kirin_ruler_text.jpg)
 
 ## How does it write
 
