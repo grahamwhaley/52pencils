@@ -42,12 +42,6 @@ I've been vaguely in the back of my mind looking forward to trying out this penc
 started this series. I have memories of it writing quite well, and they have been bourne out
 during this test. I like this pencil. The line is nice and deak, there is just about the
 right amount of friction and resistance for my liking, and there were no gritty bits
-apparent during the test.
-
-I've been vaguely in the back of my mind looking forward to trying out this pencil since I
-started this series. I have memories of it writing quite well, and they have been bourne out
-during this test. I like this pencil. The line is nice and deak, there is just about the
-right amount of friction and resistance for my liking, and there were no gritty bits
 apparent during the test. For reference, no, it is not as silky smooth as say a blackwing,
 but then for me they can be a bit too smooth waxy.
 
